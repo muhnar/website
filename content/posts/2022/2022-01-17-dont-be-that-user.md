@@ -109,6 +109,6 @@ If the project accepts donations and you have the means to contribute then send 
 
 If the project is backed by a large organisation then you may have an existing business relationship and an account manager. If so then get in touch that way as that can help divert funding inside that company to fix things.
 
-Lastly you always have the option to fork the project. This is often said in spite because it is no small undertaking but for many it can be a viable path forwards. By taking ownership and responsibility for a fork you have full control over it's development and can make it exactly what you need it to be.
+Lastly you always have the option to fork the project. This is often said in spite because it is no small undertaking but for many it can be a viable path forwards. By taking ownership and responsibility for a fork you have full control over its development and can make it exactly what you need it to be.
 
 But most of all ![Be excellent to each other, party on dudes](https://i.imgur.com/zJcoRpK.gif).
